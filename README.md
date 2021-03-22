@@ -26,3 +26,4 @@ Estimated time: 24 days
 - Project: Creating Customer Segments with Arvato
 
 Estimated time: 28 days
+
