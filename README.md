@@ -1,4 +1,6 @@
 # Udacity-Machine-Learning
+![certificate](certificate.png)
+
 Udacity Nanodegree Program Intro to Machine Learning with PyTorch
 
 ## Program Syllabus
